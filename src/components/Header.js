@@ -51,12 +51,12 @@ function Header() {
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
                     <NavDropdown.Item as={Link} to="/directors">
-                      Board of Directors
+                      Development Commitee
                     </NavDropdown.Item>
-                    <NavDropdown.Divider />
+                    {/* <NavDropdown.Divider />
                     <NavDropdown.Item as={Link} to="/management">
                       Management
-                    </NavDropdown.Item>
+                    </NavDropdown.Item> */}
                   </NavDropdown>
                   <Nav.Link as={Link} to="/services">
                     Services
