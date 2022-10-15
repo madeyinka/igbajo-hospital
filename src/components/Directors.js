@@ -9,7 +9,7 @@ function Directors() {
       <div className="breadcrumb">
         <h3>Board Members</h3>
         <p>
-          Home / <span>Board of Directors</span>
+          Home / <span>DEVELOPMENT COMMITTEE</span>
         </p>
       </div>
       <section>
