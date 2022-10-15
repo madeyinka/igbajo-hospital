@@ -237,8 +237,8 @@ function Home() {
       {/* board members */}
       <section className="about1">
         <Container className="abt-sec1">
-          <h5>BOARD MEMBERS</h5>
-          <h3>Meet Our Qualified Board Members</h3>
+          <h5>HOSPITAL DEVELOPMENT COMMITTEE</h5>
+          <h3>Meet Our Members</h3>
           <Row>
             <Col xs={4}>
               <Card className="shadow mb-5 bg-white rounded board">
@@ -246,7 +246,7 @@ function Home() {
                 <Card.Body>
                   <Card.Title>
                     Asiwaju Adegboyega Solomon Awomolo SAN Chairman, <br />
-                    <small>Igbajo Baptist Hospital Building Committee</small>
+                    <small>Hospital Development Committee-chairman</small>
                   </Card.Title>{" "}
                   <br />
                   <Card.Text>+</Card.Text>
