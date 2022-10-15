@@ -7,9 +7,9 @@ function Directors() {
   return (
     <main>
       <div className="breadcrumb">
-        <h3>Board Members</h3>
+        <h3>Members</h3>
         <p>
-          Home / <span>DEVELOPMENT COMMITTEE</span>
+          Home / <span>Members</span>
         </p>
       </div>
       <section>
